@@ -6,18 +6,18 @@ Dies ist ein Dekstop Client zum einfachen nachsehen deines verbleibenden Traffic
 Funktionen:
 
 * Anzeigen des verbleibenden Traffics als Pushup Meldungen und Icon auf deinem Desktop
-* Einfaches Menü zum erneuten Anzeigen des verbleibenden Traffics sowie Weiterleitung auf die offizielle AG DSN (Usertraffic) Seite
+* Einfaches MenÃ¼ zum erneuten Anzeigen des verbleibenden Traffics sowie Weiterleitung auf die offizielle AG DSN (Usertraffic) Seite
 * Spracheinstellungen: Deutsch (Du), Deutsch (Sie), English (UK)
 * Kompatibel mit Win, Mac und Linux
-* Kompatibel mit Java 6 und höher
+* Kompatibel mit Java 6 und hÃ¶her
 
 Download:
 
-* Alle Downloads sind im Ordner "dist" zu finden
+* https://github.com/FriwiDev/agdsn-desktop-client/blob/master/dist/AGDSN-Desktop.jar?raw=true
 
 Installation:
 
-* Keine Installation notwendig, einfaches Ausführen genügt. Wahlweise kann das Programm unter Windows in den Autostart verschoben werden. Autostartordner in Windows 10: %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+* Keine Installation notwendig, einfaches AusfÃ¼hren genÃ¼gt. Wahlweise kann das Programm unter Windows in den Autostart verschoben werden. Autostartordner in Windows 10: %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 
 # AG DSN Desktop Client
 [https://agdsn.de](https://agdsn.de)
@@ -34,7 +34,7 @@ Features:
 
 Download:
 
-* The folder "dist" contains all downloads currently avaiable
+* https://github.com/FriwiDev/agdsn-desktop-client/blob/master/dist/AGDSN-Desktop.jar?raw=true
 
 Installation:
 
