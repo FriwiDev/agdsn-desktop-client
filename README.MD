@@ -11,6 +11,14 @@ Funktionen:
 * Kompatibel mit Win, Mac und Linux
 * Kompatibel mit Java 6 und höher
 
+Download:
+
+* Alle Downloads sind im Ordner "dist" zu finden
+
+Installation:
+
+* Keine Installation notwendig, einfaches Ausführen genügt. Wahlweise kann das Programm unter Windows in den Autostart verschoben werden. Autostartordner in Windows 10: %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
+
 # AG DSN Desktop Client
 [https://agdsn.de](https://agdsn.de)
 
@@ -23,3 +31,11 @@ Features:
 * Supported languages: Deutsch (Du), Deutsch (Sie), English (UK)
 * Supports Windows, Mac and Linux
 * Requires Java 6 or newer
+
+Download:
+
+* The folder "dist" contains all downloads currently avaiable
+
+Installation:
+
+* There is no installation needed, its enough to simply run the JAR-File you received. Optionally, when on Windows, you can copy the JAR-File to your autostart folder. Autostart folder on Windows 10: %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
