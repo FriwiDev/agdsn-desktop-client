@@ -2,8 +2,8 @@ package net.friwi.agdsn.desktop.network;
 
 public class NetworkState {
 	public static final long GB = 1024 * 1024; //All values delivered by SIPA are in KB format
-	public static final long daily = 3 * GB;
-	public static final long max_save = 63 * GB;
+	public static final long daily = 10 * GB;
+	public static final long max_save = 210 * GB;
 	public enum NetworkStateEnum{
 		CONNECTED,
 		DISCONNECTED,

@@ -21,15 +21,13 @@ public class NetworkSystem {
 		7 * GB,
 		10 * GB,
 		15 * GB,
-		20 * GB,
 		25 * GB,
-		30 * GB,
-		35 * GB,
 		40 * GB,
-		45 * GB,
-		50 * GB,
-		55 * GB,
-		60 * GB
+		60 * GB,
+		80 * GB,
+		100 * GB,
+		150 * GB,
+		200 * GB,
 	};
 	public static void setNetworkState(NetworkState state){
 		setNetworkState(false, state);
